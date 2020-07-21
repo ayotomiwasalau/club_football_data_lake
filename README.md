@@ -11,11 +11,11 @@ This data project aims to provide valuable insight on a club, person, match at a
 An analytics dashboard can be created using the data, also the expected goal a team or player is likely to have in game can be estimated using predictive modelling on the data.
 
 ## Data source
-Dataset on the team, player, referees, managers, match, competition and match event were collated and parse to extract the required data.
+Dataset on the team, player, referees, match, competition and match event were collated and parse to extract the required data.
 
-### The data were sourced from 
+##### The data were sourced from 
 * [Figshare Soccer match data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
-* [rapid footballAPI](https://rapidapi.com/api-sports/api/api-football)
+* [Football Events](https://www.kaggle.com/secareanualin/football-events)
 
 
 
