@@ -14,8 +14,8 @@ An analytics dashboard can be created using the data, also the expected goal a t
 Dataset on the team, player, referees, managers, match, competition and match event were collated and parse to extract the required data.
 
 ### The data were sourced from 
-[Figshare Soccer match data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
-[rapid footballAPI](https://rapidapi.com/api-sports/api/api-football)
+* [Figshare Soccer match data](https://figshare.com/collections/Soccer_match_event_dataset/4415000/2)
+* [rapid footballAPI](https://rapidapi.com/api-sports/api/api-football)
 
 
 
