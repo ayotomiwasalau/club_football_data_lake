@@ -10,6 +10,8 @@ This data project aims to provide valuable insight on a club, person, match at a
 
 An analytics dashboard can be created using the data, also the expected goal a team or player is likely to have in game can be estimated using predictive modelling on the data.
 
+The club football event  data has been deposited on Kaggle, interested persons can go analyse and visualize the data. [Link](https://www.kaggle.com/ayotomiwasalau/club-football-event-data)
+
 ## Data source
 Dataset on the team, player, referees, match, competition and match event were collated and parse to extract the required data.
 
