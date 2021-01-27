@@ -1,9 +1,9 @@
-# Club Football Data Lake
+# Club Football Data Store
 
 ### [link to project on Kaggle](https://www.kaggle.com/ayotomiwasalau/club-football-event-data)
 
 ## Introduction
-Club football data lake is an collection of data on match, player, club, referees and atomic level event in competitions ranging from english, french, spanish, german, italian league for season 2017/2018.
+Club football data store is an collection of data on match, player, club, referees and atomic level event in competitions ranging from english, french, spanish, german, italian league for season 2017/2018.
 
 The project involves the collation of vital club football data, this is different from the general statistics that exist on the internet such as total shots, total cards etc. This data project captures granular football match and event data including stats surrounding the events and the personnels (player, referees, ...) involved.
 
