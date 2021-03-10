@@ -5,7 +5,7 @@
 ## Introduction
 Club football data store is an collection of data on match, player, club, referees and atomic level event in competitions ranging from english, french, spanish, german, italian league for season 2017/2018.
 
-The project involves the collation of vital club football data, this is different from the general statistics that exist on the internet such as total shots, total cards etc. This data project captures granular football match and event data including stats surrounding the events and the personnels (player, referees, ...) involved.
+The project involves the collation of vital club football data, this is different from the general statistics that exist on the internet such as total shots, total cards etc. This data project captures granular football match and event data such as length of pass, position of shot taken, success of tackle including stats surrounding the events and the personnels (player, referees, ...) involved.
 
 ## Purpose
 This data project aims to provide valuable insight on a club, person, match at an atomic-event level. It means analysis can be done on a given day and time, a football match is played as the nth round of the club league championship, at a given venue, between two teams with eleven starting players with a match referee in the middle.
